@@ -1,0 +1,14 @@
+# Untuk manipulasi data
+pandas
+numpy
+
+# Untuk preprocessing & model ML
+scikit-learn
+imbalanced-learn
+
+# Untuk aplikasi web / Streamlit
+streamlit
+pyngrok
+
+# Opsional tapi direkomendasikan untuk NLP
+nltk
